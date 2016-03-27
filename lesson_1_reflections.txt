@@ -1,0 +1,31 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+When I viewed a diff between two versions of a file, I was shown the differences between the two, and also where the differences were located.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+In the long term it can help you see some of your habits that you tend to have, and also if you lose a file you can easily restore saving tons of time.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros of manual commits:
+You choose when it is important to document a save
+You can annotate those changes on your time
+Cons:
+If you are forgetful, you might not commit enough
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+The purpose of Google docs is primarily for storage and creation of documents. The purpose of git is to keep track of any files that you may change, therefore it tracking multiple files mnakes it easier to do so.
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can use git log to see the entire history of commits made to a file. Furthermore you can use git diff to compare the changes of two commits line by line.
+
+How might using version control make you more confident to make changes that could break something?
+
+If you were working on a project with lots of lines of code, it can feel like a ton of content and if you change one thing without any way to track or backtrack it, you might be scared to make any changes. If you use version control, you can make a commit right before a big change that way if something breaks youll have a backup handy.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to start using it to get in the habit of moving and renaming files through the terminal rather than opening up the file explorer.
