@@ -10,7 +10,8 @@ The staging area offers an extra medium in which you can have control of which f
 How can you use the staging area to make sure you have one commit per logical change?
 You can use the git add command to add the files affected by the logical change, and then the git commit function to commit those changes to the repository.
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
+Some situations that branches would be helpful would be when you want to make some changes to the main files but still want to keep a working copy of those files while being able to switch between the two versions (or more) easily. Branches make it easy to switch between the major versions of your files.
 
 How do the diagrams help you visualize the branch structure?
 
