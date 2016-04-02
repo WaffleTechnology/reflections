@@ -16,6 +16,7 @@ Some situations that branches would be helpful would be when you want to make so
 How do the diagrams help you visualize the branch structure?
 The diagrams can help see the structure of the versions of a program that consist of more than a linear structure, for this reason since there can be many branches it helps to see where they originate from.
 
-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do? 
+The result is that all the lines that were added from both branches are added to the state that the file was in before the branches were created, likewise to the lines of code that were deleted.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
