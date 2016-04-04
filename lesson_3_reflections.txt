@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+A good time to use a remote repository would be when you are a) working with multiple people on a repository, or b) when you are working on multiple computers.
