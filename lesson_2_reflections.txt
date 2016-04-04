@@ -20,3 +20,4 @@ What is the result of merging two branches together? Why do we represent it in t
 The result is that all the lines that were added from both branches are added to the state that the file was in before the branches were created, likewise to the lines of code that were deleted.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros of Git's automatic merging is that it saves a lot of time looking over two versions of code for you and putting them together. The cons of it are that its hard to tell when to automatically select which changes should go through.
