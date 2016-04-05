@@ -9,3 +9,6 @@ Branches exist as an alternate form of a repository. You can fork and clone bran
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit comes from being able to have the latest copy available while you work on your own local changes, then being able to merge the changes together and push them to the remote. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+The only way I can think of collaborating with someone on some files without github would be to use a service like google drive or dropbox. The only easy thing about these is the ease of access for both parties. Otherwise, actualling changing the files would require manually downloading and reuploading and possibly overriding changes when multiple people are doing that. Also there are no ways to merge files easily if you had uploaded a copy of your own files to your profile on drive/dropbox.
