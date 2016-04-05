@@ -3,3 +3,6 @@ A good time to use a remote repository would be when you are a) working with mul
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because if you are working with someone else and changes are constantly being made to the repository on GitHub then you might receive commits when you arent necessarily ready for it
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches exist as an alternate form of a repository. You can fork and clone branches. Clones is the local version of a repo on your own computer, whereas a fork is the online version of someone else's repo on your GitHub profile. 
