@@ -12,3 +12,6 @@ The benefit comes from being able to have the latest copy available while you wo
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 The only way I can think of collaborating with someone on some files without github would be to use a service like google drive or dropbox. The only easy thing about these is the ease of access for both parties. Otherwise, actualling changing the files would require manually downloading and reuploading and possibly overriding changes when multiple people are doing that. Also there are no ways to merge files easily if you had uploaded a copy of your own files to your profile on drive/dropbox.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+One example where it would make sense to make changes on a second branch is when you are working on a project that isnt yours, and you create a pull request for the owner to see. That way you are making changes separate from the master branch and if the changes somehow "broke" the project it is isolated on a separate branch.
